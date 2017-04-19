@@ -1,0 +1,195 @@
+EESchema Schematic File Version 2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+LIBS:leddy-cache
+EELAYER 26 0
+EELAYER END
+$Descr A3 16535 11693
+encoding utf-8
+Sheet 1 1
+Title "LEDDY - LED PANEL"
+Date "2017-04-19"
+Rev "v1.0"
+Comp "focusaway.com"
+Comment1 "Copyright Fabrizo Tappero"
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L LED D6
+U 1 1 58F77AB8
+P 8500 4200
+F 0 "D6" V 8538 4083 50  0000 R CNN
+F 1 "LED" V 8447 4083 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 4200 50  0001 C CNN
+F 3 "" H 8500 4200 50  0001 C CNN
+	1    8500 4200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D7
+U 1 1 58F77BC4
+P 8500 4600
+F 0 "D7" V 8538 4483 50  0000 R CNN
+F 1 "LED" V 8447 4483 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 4600 50  0001 C CNN
+F 3 "" H 8500 4600 50  0001 C CNN
+	1    8500 4600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D8
+U 1 1 58F77BE4
+P 8500 5000
+F 0 "D8" V 8538 4883 50  0000 R CNN
+F 1 "LED" V 8447 4883 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 5000 50  0001 C CNN
+F 3 "" H 8500 5000 50  0001 C CNN
+	1    8500 5000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D9
+U 1 1 58F77C06
+P 8500 5400
+F 0 "D9" V 8538 5283 50  0000 R CNN
+F 1 "LED" V 8447 5283 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 5400 50  0001 C CNN
+F 3 "" H 8500 5400 50  0001 C CNN
+	1    8500 5400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D10
+U 1 1 58F77C36
+P 8500 5800
+F 0 "D10" V 8538 5683 50  0000 R CNN
+F 1 "LED" V 8447 5683 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 5800 50  0001 C CNN
+F 3 "" H 8500 5800 50  0001 C CNN
+	1    8500 5800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L GND #PWR01
+U 1 1 58F77CB0
+P 8500 6050
+F 0 "#PWR01" H 8500 5800 50  0001 C CNN
+F 1 "GND" H 8505 5877 50  0000 C CNN
+F 2 "" H 8500 6050 50  0001 C CNN
+F 3 "" H 8500 6050 50  0001 C CNN
+	1    8500 6050
+	1    0    0    -1  
+$EndComp
+$Comp
+L LED D5
+U 1 1 58F77D83
+P 8500 3800
+F 0 "D5" V 8538 3683 50  0000 R CNN
+F 1 "LED" V 8447 3683 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 3800 50  0001 C CNN
+F 3 "" H 8500 3800 50  0001 C CNN
+	1    8500 3800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D4
+U 1 1 58F77DE1
+P 8500 3400
+F 0 "D4" V 8538 3283 50  0000 R CNN
+F 1 "LED" V 8447 3283 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 3400 50  0001 C CNN
+F 3 "" H 8500 3400 50  0001 C CNN
+	1    8500 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D3
+U 1 1 58F77E0D
+P 8500 3000
+F 0 "D3" V 8538 2883 50  0000 R CNN
+F 1 "LED" V 8447 2883 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 3000 50  0001 C CNN
+F 3 "" H 8500 3000 50  0001 C CNN
+	1    8500 3000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D2
+U 1 1 58F77ED7
+P 8500 2600
+F 0 "D2" V 8538 2483 50  0000 R CNN
+F 1 "LED" V 8447 2483 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 2600 50  0001 C CNN
+F 3 "" H 8500 2600 50  0001 C CNN
+	1    8500 2600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L LED D1
+U 1 1 58F77F2D
+P 8500 2200
+F 0 "D1" V 8538 2083 50  0000 R CNN
+F 1 "LED" V 8447 2083 50  0000 R CNN
+F 2 "lib:LED-3030" H 8500 2200 50  0001 C CNN
+F 3 "" H 8500 2200 50  0001 C CNN
+	1    8500 2200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8500 4350 8500 4450
+Wire Wire Line
+	8500 4750 8500 4850
+Wire Wire Line
+	8500 5150 8500 5250
+Wire Wire Line
+	8500 5550 8500 5650
+Wire Wire Line
+	8500 5950 8500 6050
+Wire Wire Line
+	8500 3950 8500 4050
+Wire Wire Line
+	8500 3550 8500 3650
+Wire Wire Line
+	8500 3150 8500 3250
+Wire Wire Line
+	8500 2350 8500 2450
+Wire Wire Line
+	8500 2750 8500 2850
+Text Notes 7700 1900 0    60   ~ 0
+33V, 300mA, 10W
+Wire Wire Line
+	8500 2050 8500 1950
+Wire Wire Line
+	8500 1950 7600 1950
+Text Notes 7900 1650 0    60   ~ 0
+10X LED YJ-BC-3030-G01
+$EndSCHEMATC
