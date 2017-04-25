@@ -1,4 +1,4 @@
-update=Wed 19 Apr 2017 17:30:25 CEST
+update=Tue 25 Apr 2017 15:49:15 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -56,5 +56,6 @@ LibName26=opto
 LibName27=atmel
 LibName28=contrib
 LibName29=valves
+LibName30=lib/lt3518
 [general]
 version=1
