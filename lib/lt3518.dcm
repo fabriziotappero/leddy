@@ -1,9 +1,0 @@
-EESchema-DOCLIB  Version 2.0
-#
-$CMP LT3518
-D Full-Featured LED Driver with 2.3A Switch Current
-K LED driver
-F http://cds.linear.com/docs/en/datasheet/3518ff.pdf
-$ENDCMP
-#
-#End Doc Library
