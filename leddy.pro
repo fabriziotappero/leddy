@@ -1,4 +1,4 @@
-update=Thu 04 May 2017 15:59:03 CEST
+update=Fri 05 May 2017 10:29:34 CEST
 version=1
 last_client=kicad
 [pcbnew]
@@ -60,5 +60,6 @@ LibName30=lib/lt3518
 LibName31=switches
 LibName32=lib/74HC4017PW
 LibName33=logo
+LibName34=lib/tact_switch
 [general]
 version=1
