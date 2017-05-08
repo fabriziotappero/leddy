@@ -13,6 +13,13 @@
   )
 
   (page A4)
+  (title_block
+    (title "50W LED Panel")
+    (date 2017-05-08)
+    (company "Focus Away")
+    (comment 1 "Copyright Fabrizio Tappero")
+  )
+
   (layers
     (0 TOP.Cu signal)
     (1 In1.Cu signal)

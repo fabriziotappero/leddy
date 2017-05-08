@@ -40,9 +40,9 @@ $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
 Title "LEDDY - 50W LED PANEL"
-Date "2017-04-19"
+Date "2017-05-08"
 Rev "v1.0"
-Comp "focusaway.com"
+Comp "Focus Away"
 Comment1 "Copyright Fabrizo Tappero"
 Comment2 ""
 Comment3 ""
